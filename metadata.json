@@ -1,0 +1,6 @@
+{
+  "name": "NER-SAFE",
+  "description": "AI-enabled disaster early warning and landslide monitoring platform for the North Eastern Region of India.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

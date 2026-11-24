@@ -1,0 +1,60 @@
+{
+  "reports": [
+    {
+      "id": 4,
+      "hazard_type": "Landslide",
+      "description": "Active rockfall on NH-10 near Rangpo bridge",
+      "latitude": 27.1772,
+      "longitude": 88.5283,
+      "photo_name": "citizen_observation.jpg",
+      "status": "PENDING",
+      "created_at": "2026-09-20 17:38:00"
+    },
+    {
+      "id": 1,
+      "hazard_type": "Landslide",
+      "description": "Minor debris slip on NH-10 near Rangpo corridor. One lane blocked with gravel and mud.",
+      "latitude": 27.1772,
+      "longitude": 88.5283,
+      "photo_name": "rangpo_slip.jpg",
+      "status": "VERIFIED",
+      "created_at": "2026-09-20 08:30:00"
+    },
+    {
+      "id": 2,
+      "hazard_type": "Crack / Slope Movement",
+      "description": "Visible 3-inch fissures noticed on upper slope retaining wall near Laiphampat bypass.",
+      "latitude": 24.817,
+      "longitude": 93.9368,
+      "photo_name": "fissure_wall.jpg",
+      "status": "PENDING",
+      "created_at": "2026-09-20 09:15:00"
+    },
+    {
+      "id": 3,
+      "hazard_type": "Road Blockage",
+      "description": "Fallen boulder and mud slump blocking vehicular movement towards Durtlang hills.",
+      "latitude": 23.7271,
+      "longitude": 92.7176,
+      "photo_name": "durtlang_boulder.jpg",
+      "status": "PENDING",
+      "created_at": "2026-09-20 09:45:00"
+    }
+  ],
+  "alerts": [
+    {
+      "id": 2,
+      "area": "Rangpo Corridor, Sikkim",
+      "risk_level": "HIGH-RISK WARNING",
+      "message": "Emergency slope stabilization ongoing. NH-10 closed for heavy vehicles.",
+      "created_at": "2026-09-20 17:38:00"
+    },
+    {
+      "id": 1,
+      "area": "Gangtok, Sikkim",
+      "risk_level": "HIGH-RISK WARNING",
+      "message": "Heavy monsoon rainfall has increased landslide vulnerability along NH-10. Avoid non-essential travel on slope sectors.",
+      "created_at": "2026-09-20 08:00:00"
+    }
+  ]
+}
